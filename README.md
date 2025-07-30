@@ -11,7 +11,7 @@ Plateforme web pour la gestion de patients atteints de MRC, avec :
 
 ## Stack
 
-* LAravel 12 + Livewire
+* Laravel 12 + Livewire
 * MySQL
 * Authentification Breeze
 * PDF : barryvdh/laravel-dopdf
